@@ -1,0 +1,2 @@
+# ArchitecturalPatterns
+MVP,MVC,MVVM
